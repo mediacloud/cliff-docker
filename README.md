@@ -33,5 +33,5 @@ http://localhost:8080/CLIFF-2.4.2/parse/text?q=This%20is%20some%20text%20about%2
 Acknowledgements
 -----------------
 
-This is forked from is forked from John Beieler's [cliff-docker](https://github.com/havlicek/cliff-docker),
+This is forked from John Beieler's [cliff-docker](https://github.com/havlicek/cliff-docker),
 which pulls heavily from Andy Halterman's [CLIFF-up](https://github.com/ahalterman/CLIFF-up) Vagrant box.
