@@ -11,7 +11,7 @@ echo "  done (copied /usr/local/tomcat/webapps/)"
 
 echo "Building Index..."
 echo "  downloading CLAVIN from GitHub"
-cd; git clone https://github.com/Berico-Technologies/CLAVIN.git
+cd; git clone https://github.com/nwandabridges/CLAVIN.git
 
 echo "  downloading latestplacenames file from Geonames"
 cd CLAVIN
